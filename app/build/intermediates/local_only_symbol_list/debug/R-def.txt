@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color white
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.DevOpsCICDApp
+xml backup_rules
+xml data_extraction_rules
