@@ -86,7 +86,7 @@ pipeline {
                     sh """
                         firebase appdistribution:distribute \
                             app/build/outputs/apk/release/app-release.apk \
-                            --app 1:39079864737:android:6e0e258fcbc282629f83e0 \
+                            --app 1:346542465534:android:32cbd1e9d400a246f060af \
                             --groups "qa-team" \
                             --token "$FIREBASE_TOKEN"
                     """
