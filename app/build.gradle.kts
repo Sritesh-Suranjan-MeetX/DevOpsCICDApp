@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.devopscicdapp"
+    namespace = "DevOpsCICD.App"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.devopscicdapp"
+        applicationId = "DevOpsCICD.App"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
