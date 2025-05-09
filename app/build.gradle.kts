@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "DevOpsCICD.App"
+    namespace = "com.appsbase.DevOpsCICDApp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "DevOpsCICD.App"
+        applicationId = "com.appsbase.DevOpsCICDApp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "DevOpsCICD.App.app-mergeDebugResources-55:/values-v26/values-v26.xml",
+            "outputFile": "com.appsbase.DevOpsCICDApp.app-mergeDebugResources-55:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/root/.gradle/caches/transforms-3/26c911d3cf93a7c0e4fcf2c49b0a758c/transformed/appcompat-1.6.1/res/values-v26/values-v26.xml",
+                    "source": "/root/.gradle/caches/transforms-3/55f36d2f423818e646f0bf662975bfba/transformed/appcompat-1.6.1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

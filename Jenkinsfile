@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        ANDROID_HOME = '/usr/local/android-sdk'
+        ANDROID_HOME = '//home/jenkins/android-sdk'
         PATH = "$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools:$PATH"
         GRADLE_USER_HOME = "${env.WORKSPACE}/.gradle"
     }
@@ -127,4 +127,3 @@ pipeline {
         }
     }
 }
-

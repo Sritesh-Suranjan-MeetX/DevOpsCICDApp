@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "DevOpsCICD.App.debug",
+  "applicationId": "com.appsbase.DevOpsCICDApp.debug",
   "variantName": "debug",
   "elements": []
 }
