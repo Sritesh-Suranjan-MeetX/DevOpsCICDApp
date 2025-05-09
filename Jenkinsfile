@@ -19,7 +19,7 @@ pipeline {
                     branches: [[name: 'main']],
                     extensions: [],
                     userRemoteConfigs: [[
-                        url: 'https://github.com/your-username/DevOpsCICDApp.git',
+                        url: 'https://github.com/Sritesh-Suranjan-MeetX/DevOpsCICDApp.git',
                         credentialsId: 'github-credentials' // Replace with your Jenkins credentials ID
                     ]]
                 ])
