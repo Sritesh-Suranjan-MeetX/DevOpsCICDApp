@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39079864737",
+    "project_id": "devopscicdapp",
+    "storage_bucket": "devopscicdapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39079864737:android:6e0e258fcbc282629f83e0",
+        "android_client_info": {
+          "package_name": "DevOpsCICD.App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASanA8DfECHoc1r6tv6SCEholSd2B79WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
